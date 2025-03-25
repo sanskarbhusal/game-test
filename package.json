@@ -1,3 +1,5 @@
 {
-  "scripts":"echo 'no build command required for a fucking index.html rendering!'"
+  "scripts":
+  {"build":"echo 'no build command required for a fucking index.html rendering!'"}
 }
+
